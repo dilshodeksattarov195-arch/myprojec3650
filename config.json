@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvrocess",
+        "uuid": 18662450,
+        "checksum": "zx26pc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
